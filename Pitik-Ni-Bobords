@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Pitik ni bobords</title>
+    <link href="na_ambot_nasad_ania.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="main">
+        <div class="navbar">
+            <div class="icon">
+                <a target="_blank" href="bc.jpg">
+                    <img src="bc.jpg" alt="bc.jpg" width="1300" height="600">
+            </div>
+
+            <div class="menu">
+                <ul>
+                    <li><a href="#">HOME</a></li>
+                    <li class="dropdown">
+                        <a href="#">SERVICES</a>
+                        <div class="dropdown-content">
+                            <a href="parasaid (1).html">ID</a>
+                            <a href="parasaSchoolevent.html">SCHOOL EVENT</a>
+                            <a href="parasaSportsevent.html">SPORTS EVENT</a>
+                            <a href="parasagallery.html">GALLERY</a>
+                        </div>
+                    <li><a href="Contact.html"target=_self>CONTACT</a></li>
+                    <li><a href="para-sa-about.html"target=_self>ABOUT</a></li>
+                    
+                    </li>
+                </ul>
+            </div>
+        </div> 
+        <div class="content">
+            <h1>Welcome To <br><span>Pitik ni bobords</span> <br>Photo Service</h1>
+            <p class="par">We are a team of professional photographer and looking to grow our wings.
+                <br> In here we offer a variety of Photoservices ranging from ID,SCHOOL EVENTS,SPORTS EVENT,GALLERY.
+            </p>
+            <div class="icons">
+                <p><a href="https://www.facebook.com/profile.php?id=100090595899022"><img  
+                src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" alt="Facebook" height="40px"></a></p>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <br><br><br><br><br>
+      
+        <br><br><br><br><br>
+      <center>
+          <p>© Max Saniel Street Foods PH 2000</p>
+          
+          </center>
+      </footer>
+</body>
+</html>
